@@ -1,0 +1,3 @@
+code splitting - react lazy
+Performance - code splitting , unnecessary renders , slow renders
+Limitation - SEO , JSX
